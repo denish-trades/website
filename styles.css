@@ -212,6 +212,8 @@ a {
 
 .contact-section {
   padding: 48px 0;
+  background: var(--green-700);
+  color: var(--off-white);
 }
 
 .section.alt {
